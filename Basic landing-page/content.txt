@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+font-family: 'Montserrat', sans-serif;
+#f7f7f7
+nav
+#0e0e26
+
+border and mark
+#1bbca3
+
+title
+#4b605c
+
+caption
+#334240
+
+Showcase
+
+Welcome to WebsCodeMedia
+
+Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut 
+aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem.
+
+Get Started
+
+about us
+
+Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut 
+aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. 
+Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.
+
+services
+
+Lorem Ipsum
+
+Et architecto provident deleniti facere repellat nobis iste. 
+Id facere quia quae dolores dolorem tempore
+
+card
+
+Lorem Ipsum
+
+Et architecto provident deleniti facere repellat nobis iste. 
+Id facere quia quae dolores dolorem tempore
+
+
+&copy; Copyright WebsCodeMedia. All Rights Reserved
+
+Designed by WebsCodeMedia
+
+on card
+box-shadow:0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+on hover
+box-shadow:0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
